@@ -1,0 +1,10 @@
+D:\Desmond\Development\2017\VisualStudio\AngularVSPrimeNg\AngularVSPrimeNg\bin\Debug\netcoreapp2.0\AngularVSPrimeNg.deps.json
+D:\Desmond\Development\2017\VisualStudio\AngularVSPrimeNg\AngularVSPrimeNg\bin\Debug\netcoreapp2.0\AngularVSPrimeNg.runtimeconfig.json
+D:\Desmond\Development\2017\VisualStudio\AngularVSPrimeNg\AngularVSPrimeNg\bin\Debug\netcoreapp2.0\AngularVSPrimeNg.runtimeconfig.dev.json
+D:\Desmond\Development\2017\VisualStudio\AngularVSPrimeNg\AngularVSPrimeNg\bin\Debug\netcoreapp2.0\AngularVSPrimeNg.dll
+D:\Desmond\Development\2017\VisualStudio\AngularVSPrimeNg\AngularVSPrimeNg\bin\Debug\netcoreapp2.0\AngularVSPrimeNg.pdb
+D:\Desmond\Development\2017\VisualStudio\AngularVSPrimeNg\AngularVSPrimeNg\obj\Debug\netcoreapp2.0\AngularVSPrimeNg.csproj.CoreCompileInputs.cache
+D:\Desmond\Development\2017\VisualStudio\AngularVSPrimeNg\AngularVSPrimeNg\obj\Debug\netcoreapp2.0\AngularVSPrimeNg.AssemblyInfoInputs.cache
+D:\Desmond\Development\2017\VisualStudio\AngularVSPrimeNg\AngularVSPrimeNg\obj\Debug\netcoreapp2.0\AngularVSPrimeNg.AssemblyInfo.cs
+D:\Desmond\Development\2017\VisualStudio\AngularVSPrimeNg\AngularVSPrimeNg\obj\Debug\netcoreapp2.0\AngularVSPrimeNg.dll
+D:\Desmond\Development\2017\VisualStudio\AngularVSPrimeNg\AngularVSPrimeNg\obj\Debug\netcoreapp2.0\AngularVSPrimeNg.pdb
