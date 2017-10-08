@@ -8,3 +8,14 @@ D:\Desmond\Development\2017\VisualStudio\AngularVSPrimeNg\AngularVSPrimeNg\obj\D
 D:\Desmond\Development\2017\VisualStudio\AngularVSPrimeNg\AngularVSPrimeNg\obj\Debug\netcoreapp2.0\AngularVSPrimeNg.AssemblyInfo.cs
 D:\Desmond\Development\2017\VisualStudio\AngularVSPrimeNg\AngularVSPrimeNg\obj\Debug\netcoreapp2.0\AngularVSPrimeNg.dll
 D:\Desmond\Development\2017\VisualStudio\AngularVSPrimeNg\AngularVSPrimeNg\obj\Debug\netcoreapp2.0\AngularVSPrimeNg.pdb
+D:\Desmond\Development\GitHub\vs_angular_primeng\AngularVSPrimeNg\bin\Debug\netcoreapp2.0\AngularVSPrimeNg.deps.json
+D:\Desmond\Development\GitHub\vs_angular_primeng\AngularVSPrimeNg\bin\Debug\netcoreapp2.0\AngularVSPrimeNg.runtimeconfig.json
+D:\Desmond\Development\GitHub\vs_angular_primeng\AngularVSPrimeNg\bin\Debug\netcoreapp2.0\AngularVSPrimeNg.runtimeconfig.dev.json
+D:\Desmond\Development\GitHub\vs_angular_primeng\AngularVSPrimeNg\bin\Debug\netcoreapp2.0\AngularVSPrimeNg.dll
+D:\Desmond\Development\GitHub\vs_angular_primeng\AngularVSPrimeNg\bin\Debug\netcoreapp2.0\AngularVSPrimeNg.pdb
+D:\Desmond\Development\GitHub\vs_angular_primeng\AngularVSPrimeNg\obj\Debug\netcoreapp2.0\AngularVSPrimeNg.csprojResolveAssemblyReference.cache
+D:\Desmond\Development\GitHub\vs_angular_primeng\AngularVSPrimeNg\obj\Debug\netcoreapp2.0\AngularVSPrimeNg.csproj.CoreCompileInputs.cache
+D:\Desmond\Development\GitHub\vs_angular_primeng\AngularVSPrimeNg\obj\Debug\netcoreapp2.0\AngularVSPrimeNg.AssemblyInfoInputs.cache
+D:\Desmond\Development\GitHub\vs_angular_primeng\AngularVSPrimeNg\obj\Debug\netcoreapp2.0\AngularVSPrimeNg.AssemblyInfo.cs
+D:\Desmond\Development\GitHub\vs_angular_primeng\AngularVSPrimeNg\obj\Debug\netcoreapp2.0\AngularVSPrimeNg.dll
+D:\Desmond\Development\GitHub\vs_angular_primeng\AngularVSPrimeNg\obj\Debug\netcoreapp2.0\AngularVSPrimeNg.pdb

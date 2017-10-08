@@ -12542,11 +12542,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Desmond\\Development\\2017\\VisualStudio\\AngularVSPrimeNg\\AngularVSPrimeNg\\AngularVSPrimeNg.csproj",
+      "projectUniqueName": "D:\\Desmond\\Development\\GitHub\\vs_angular_primeng\\AngularVSPrimeNg\\AngularVSPrimeNg.csproj",
       "projectName": "AngularVSPrimeNg",
-      "projectPath": "D:\\Desmond\\Development\\2017\\VisualStudio\\AngularVSPrimeNg\\AngularVSPrimeNg\\AngularVSPrimeNg.csproj",
+      "projectPath": "D:\\Desmond\\Development\\GitHub\\vs_angular_primeng\\AngularVSPrimeNg\\AngularVSPrimeNg.csproj",
       "packagesPath": "C:\\Users\\desmo\\.nuget\\packages\\",
-      "outputPath": "D:\\Desmond\\Development\\2017\\VisualStudio\\AngularVSPrimeNg\\AngularVSPrimeNg\\obj\\",
+      "outputPath": "D:\\Desmond\\Development\\GitHub\\vs_angular_primeng\\AngularVSPrimeNg\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
